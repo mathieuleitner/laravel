@@ -1,0 +1,25 @@
+Voici comme convenu les fonctionnalités demandées pour notre application « cinema » :
+
+Gestionnaires
+- artistes (listing, création, édition, suppression)
+- films (listing, création, édition, suppression)
+- acteurs d’un film
+- cinéma (listing, création, édition, suppression)
+- salles (listing, création, édition, suppression)
+- séances (listing, création, édition, suppression)
+
+Droits
+- seul le créateur d’une fiche peut modifier et supprimer cette dernière
+- les visiteurs peuvent lister et voir les entités mais ne peuvent pas créer, éditer ou supprimer
+
+- Moteur de recherche de séances avec comme possibilité:
+	- choix du film
+	- choix d’un cinéma
+	- choix d’une date
+
+- Notification de tous les utilisateurs lorsqu’un film, un acteur ou une séance est ajouté au système. 
+
+- Vous pouvez aller plus loin par contre dites-le moi sinon je risque de passer à coté ;)
+
+
+Attention: Votre application doit être déposée sur votre git, facilement déployable avec les migrations et les seeds. (N’hésitez pas à tester une installation sur un système vierge).
